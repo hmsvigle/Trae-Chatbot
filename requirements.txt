@@ -1,0 +1,6 @@
+streamlit==1.32.0
+langchain==0.1.11
+transformers==4.38.2
+torch>=2.1.0
+accelerate==0.27.2
+safetensors==0.4.2
